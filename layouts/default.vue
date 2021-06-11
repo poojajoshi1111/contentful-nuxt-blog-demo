@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <Greeting></Greeting>
+    <!-- <Greeting></Greeting> -->
     <main role="main">
       <nuxt/>
     </main>
